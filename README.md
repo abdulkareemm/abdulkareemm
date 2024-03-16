@@ -4,4 +4,4 @@ Welcome to my GitHub profile! I am a MERN (MongoDB, Express.js, React.js, Node.j
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkareemm)](https://github.com/abdulkareemm/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-abdulkareemm)
+![](https://komarev.com/ghpvc/?username=your-github-abdulkareemm&color=lightgrey)
